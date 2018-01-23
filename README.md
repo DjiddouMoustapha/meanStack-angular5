@@ -22,7 +22,7 @@ to run the app in local.
 
 1°) clone de app
 
-2°) download and put it a5app folder https://github.com/DjiddouMoustapha/angular5-folder 
+2°) download and put only the files into the  a5app folder https://github.com/DjiddouMoustapha/angular5-folder 
 
 3°) npm install to install all dependencies 
 
