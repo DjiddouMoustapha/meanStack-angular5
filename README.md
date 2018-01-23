@@ -20,9 +20,11 @@ authentification crypted password by json web token.
 to run the app in local.
 1°) clone de app
 
-2°)npm install to install all dependencies
+2°) download and put it a5app folder https://github.com/DjiddouMoustapha/angular5-folder 
 
-3°) npm start to run the app in local
+3°) npm install to install all dependencies 
+
+4°)  npm start to run the app in local
 
 
 
