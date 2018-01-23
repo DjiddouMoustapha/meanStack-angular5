@@ -2,6 +2,8 @@
 autentification app with nodejs expressjs, mongodb and angular5 
 
 
+test the app :  https://djiddou-auth.herokuapp.com
+
 restfull api 
 
 get all users GET : https://djiddou-auth.herokuapp.com/users/admin
